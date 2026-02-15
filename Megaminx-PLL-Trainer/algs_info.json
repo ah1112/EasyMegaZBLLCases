@@ -6,11 +6,11 @@
         "name": "L2C1",
         "group": "L2C",
         "algset": "ZBLL",
-        "s": "BR R BR' R' BR R BR' R' F R BR R' BR' BR R' BR' F'"
+        "s": "BR R BR' R' BR R BR' R' F R BR R' BR' R BR R' BR' F'"
     },
     "2": {
         "a": [
-            "BR R BR' R' BR R BR' R' F R BR R' BR' BR R' BR' F'"
+            "BR R BR' R' BR R BR' R' F R BR R' BR' R BR R' BR' F'"
         ],
         "name": "L2C2",
         "group": "L2C",
