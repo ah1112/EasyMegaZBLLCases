@@ -1,6 +1,6 @@
 const timesArrayKey = "pllTimesArray";
 const selectionArrayKey = "pllSelection";
-var trainerTitle = "Megaminx PLL Trainer";
+var trainerTitle = "Megaminx ZBLL Trainer";
 var preRotations = [''];
 var postRotations = [''];
 var preMoves = ["", "U", "U'", "U2", "U2'"];
