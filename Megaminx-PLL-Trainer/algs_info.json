@@ -10,11 +10,11 @@
     },
     "2": {
         "a": [
-            "R' F' R U R U' R2' F R U R' F' R F"
+            "BR R BR' R' BR R BR' R' F R BR R' BR' BR R' BR' F'"
         ],
         "name": "L2C2",
         "group": "L2C",
         "algset": "ZBLL",
-        "s": "R U' R2' U2 R' U2' R2' U R' U' R2' U2 R U2' R"
+        "s": "F BR R BR' R' BR R BR' R' F' R BR R' BR' R BR R' BR'"
     }
 }
