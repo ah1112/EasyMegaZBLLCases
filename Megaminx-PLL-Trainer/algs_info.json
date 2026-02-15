@@ -1,6 +1,7 @@
 {
     "1": {
         "a": [
+            "U' R U2 R' U' R U' R' U2 R' U2' R U R' U R U2'",
             "F BR R BR' R' BR R BR' R' F' R BR R' BR' R BR R' BR'"
         ],
         "name": "L2C1",
@@ -10,6 +11,7 @@
     },
     "2": {
         "a": [
+            "U2 R U R' U R U2' R' U2 R' U' R U' R' U2 R",
             "BR R BR' R' BR R BR' R' F R BR R' BR' R BR R' BR' F'"
         ],
         "name": "L2C2",
@@ -19,6 +21,7 @@
     },
     "3": {
         "a": [
+            "U' R U2' R' U2 R' U' R U' R' U2 R U2' R U R' U",
             "R' U' R BR R BR' R' BR R BR' R' F R BR R' BR' R BR R' BR' F' R' U R"
         ],
         "name": "L2C3",
@@ -28,6 +31,7 @@
     },
     "4": {
         "a": [
+            "U2' R U' R' U2 R' U2' R U R' U R U2' R U2 R'",
             "R' U' R F BR R BR' R' BR R BR' R' F' R BR R' BR' R BR R' BR' R' U R"
         ],
         "name": "L2C4",
@@ -37,10 +41,194 @@
     },
     "5": {
         "a": [
-            "R' U' R F BR R BR' R' BR R BR' R' F' R BR R' BR' R BR R' BR' R' U R"
+            "F' L' F R' F' L F R3 Dbr R' U2' R Dbr' R' U2 R'",
+            "R' U' R U' Bl U2 R' U2' Bl' U' Bl U2' R U2' Bl'",
+            "U R U2' R2' U' R2 U R2' U2' R2 U' R2' U' R U' R' U2' R U2",
+            "F' R U2' R' U2 R' F R U2' R2 Dbr R' U2 R Dbr' R2'"
         ],
-        "name": "L2C4",
-        "group": "L2C",
+        "name": "L3C1",
+        "group": "L3C",
+        "algset": "ZBLL",
+        "s": "R' U' R BR R BR' R' BR R BR' R' F R BR R' BR' R BR R' BR' F' R' U R"
+    },
+    "6": {
+        "a": [
+            "R U2' R Dbr R' U2 R Dbr' R3' F' L' F R F' L F",
+            "U2' R' U2 R2 U R2' U' R2 U2 R2' U R2 U R' U R U2 R' U'",
+            "R2 Dbr R' U2' R Dbr' R2' U2 R' F' R U2' R U2 R' F"
+        ],
+        "name": "L3C2",
+        "group": "L3C",
+        "algset": "ZBLL",
+        "s": "R' U' R BR R BR' R' BR R BR' R' F R BR R' BR' R BR R' BR' F' R' U R"
+    },
+    "7": {
+        "a": [
+            "tbd"
+        ],
+        "name": "L3C3",
+        "group": "L3C",
+        "algset": "ZBLL",
+        "s": "tbd"
+    },
+    "8": {
+        "a": [
+            "tbd"
+        ],
+        "name": "L3C4",
+        "group": "L3C",
+        "algset": "ZBLL",
+        "s": "tbd"
+    },
+    "9": {
+        "a": [
+            "U' R2' Dfr' R U2 R' Dfr R U2' R U"
+        ],
+        "name": "L3C5",
+        "group": "L3C",
+        "algset": "ZBLL",
+        "s": "R' U' R BR R BR' R' BR R BR' R' F R BR R' BR' R BR R' BR' F' R' U R"
+    },
+    "10": {
+        "a": [
+            "R2 Dbr R' U2' R Dbr' R' U2 R'"
+        ],
+        "name": "L3C6",
+        "group": "L3C",
+        "algset": "ZBLL",
+        "s": "R' U' R BR R BR' R' BR R BR' R' F R BR R' BR' R BR R' BR' F' R' U R"
+    },
+    "11": {
+        "a": [
+            "F' R U2' R' U2 R' F R U2' R U2 R'"
+        ],
+        "name": "L3C7",
+        "group": "L3C",
+        "algset": "ZBLL",
+        "s": "BR R BR' R' BR R BR' R' F R BR R' BR' R BR R' BR' F'"
+    },
+    "12": {
+        "a": [
+            "U F U2' R' Dfr' R U2 R' Dfr R F' U'"
+        ],
+        "name": "L3C8",
+        "group": "L3C",
+        "algset": "ZBLL",
+        "s": "F BR R BR' R' BR R BR' R' F' R BR R' BR' R BR R' BR'"
+    },
+    "13": {
+        "a": [
+            "U R' U' R F R' U R U' F'",
+            "U F R F' L F R' F' L' U'"
+        ],
+        "name": "L3C9",
+        "group": "L3C",
+        "algset": "ZBLL",
+        "s": "R' U' R F BR R BR' R' BR R BR' R' F' R BR R' BR' R BR R' BR' R' U R"
+    },
+    "14": {
+        "a": [
+            "F' L' F R' F' L F R",
+            "U F U' R' U' R U F' U' R' U R"
+        ],
+        "name": "L3C10",
+        "group": "L3C",
+        "algset": "ZBLL",
+        "s": "R' U' R BR R BR' R' BR R BR' R' F R BR R' BR' R BR R' BR' F' R' U R"
+    },
+    "15": {
+        "a": [
+            "R U2' R' U2 R' F' R U2' R U2 R' F"
+        ],
+        "name": "L3C11",
+        "group": "L3C",
+        "algset": "ZBLL",
+        "s": "R' U' R BR R BR' R' BR R BR' R' F R BR R' BR' R BR R' BR' F' R' U R"
+    },
+    "16": {
+        "a": [
+            "U F R' Dfr' R U2' R' Dfr R U2 F' U'"
+        ],
+        "name": "L3C12",
+        "group": "L3C",
+        "algset": "ZBLL",
+        "s": "R' U' R BR R BR' R' BR R BR' R' F R BR R' BR' R BR R' BR' F' R' U R"
+    },
+    "17": {
+        "a": [
+            "F U R' U' R F' R' U R U'",
+            "U L F R F' L' F R' F U'"
+        ],
+        "name": "L3C13",
+        "group": "L3C",
+        "algset": "ZBLL",
+        "s": "R' U' R BR R BR' R' BR R BR' R' F R BR R' BR' R BR R' BR' F' R' U R"
+    },
+    "18": {
+        "a": [
+            "R' F' L' F R F' L F",
+            "R' U' R U F U' R' U R U F' U'"
+        ],
+        "name": "L3C14",
+        "group": "L3C",
+        "algset": "ZBLL",
+        "s": "R' U' R BR R BR' R' BR R BR' R' F R BR R' BR' R BR R' BR' F' R' U R"
+    },
+    "19": {
+        "a": [
+            "U' R' U2 R' Dfr' R U2' R' Dfr R2 U"
+        ],
+        "name": "L3C15",
+        "group": "L3C",
+        "algset": "ZBLL",
+        "s": "R' U' R BR R BR' R' BR R BR' R' F R BR R' BR' R BR R' BR' F' R' U R"
+    },
+    "20": {
+        "a": [
+            "R U2' R Dbr R' U2 R Dbr' R2'"
+        ],
+        "name": "L3C16",
+        "group": "L3C",
+        "algset": "ZBLL",
+        "s": "BR R BR' R' BR R BR' R' F R BR R' BR' R BR R' BR' F'"
+    },
+    "21": {
+        "a": [
+            "F R' U R U' F' U R' U' R",
+            "U L U' R' U L' U' R"
+        ],
+        "name": "L3C17",
+        "group": "L3C",
+        "algset": "ZBLL",
+        "s": "F BR R BR' R' BR R BR' R' F' R BR R' BR' R BR R' BR'"
+    },
+    "22": {
+        "a": [
+            "U' R' U' R' F' L F R2 F' L' F R' U R U",
+            "U' R U R' F' R U R2' U' R' F R U R2 U2' R' U"
+        ],
+        "name": "L3C18",
+        "group": "L3C",
+        "algset": "ZBLL",
+        "s": "R' U' R F BR R BR' R' BR R BR' R' F' R BR R' BR' R BR R' BR' R' U R"
+    },
+    "23": {
+        "a": [
+            "R' U R U' F U R' U' R F'",
+            "R' U L U' R U L' U'"
+        ],
+        "name": "L3C19",
+        "group": "L3C",
+        "algset": "ZBLL",
+        "s": "R' U' R BR R BR' R' BR R BR' R' F R BR R' BR' R BR R' BR' F' R' U R"
+    },
+    "24": {
+        "a": [
+            "U' R' U' R F' L F R2' F' L' F R U R U",
+            "U2 F U2' R' U2 R2 U R2' U2 R U2' R U' R' F' U2'"
+        ],
+        "name": "L3C20",
+        "group": "L3C",
         "algset": "ZBLL",
         "s": "R' U' R BR R BR' R' BR R BR' R' F R BR R' BR' R BR R' BR' F' R' U R"
     }
