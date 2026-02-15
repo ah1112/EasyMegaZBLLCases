@@ -16,5 +16,23 @@
         "group": "L2C",
         "algset": "ZBLL",
         "s": "F BR R BR' R' BR R BR' R' F' R BR R' BR' R BR R' BR'"
+    },
+    "3": {
+        "a": [
+            "R' U' R BR R BR' R' BR R BR' R' F R BR R' BR' R BR R' BR' F' R' U R"
+        ],
+        "name": "L2C3",
+        "group": "L2C",
+        "algset": "ZBLL",
+        "s": "R' U' R F BR R BR' R' BR R BR' R' F' R BR R' BR' R BR R' BR' R' U R"
+    },
+    "4": {
+        "a": [
+            "R' U' R F BR R BR' R' BR R BR' R' F' R BR R' BR' R BR R' BR' R' U R"
+        ],
+        "name": "L2C4",
+        "group": "L2C",
+        "algset": "ZBLL",
+        "s": "R' U' R BR R BR' R' BR R BR' R' F R BR R' BR' R BR R' BR' F' R' U R"
     }
 }
