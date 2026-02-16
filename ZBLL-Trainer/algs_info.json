@@ -64,21 +64,21 @@
     },
     "7": {
         "a": [
-            "tbd"
+            "R' U2' R F' R' F U2 F' L F R F' L' F R' F' R F"
         ],
         "name": "Other L3C1",
         "group": "Other L3C",
         "algset": "ZBLL",
-        "s": "tbd"
+        "s": "F' R' F R F' L F R' F' L' F U2' F' R F R' U2 R"
     },
     "8": {
         "a": [
-            "tbd"
+            "F' R' F R F' L F R' F' L' F U2' F' R F R' U2 R"
         ],
         "name": "Other L3C2",
         "group": "Other L3C",
         "algset": "ZBLL",
-        "s": "tbd"
+        "s": "R' U2' R F' R' F U2 F' L F R F' L' F R' F' R F"
     },
     "9": {
         "a": [

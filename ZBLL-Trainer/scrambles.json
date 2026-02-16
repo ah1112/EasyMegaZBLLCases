@@ -5,12 +5,8 @@
     "4": ["R U2' R' U2 R' U' R U' R' U2 R U2' R U R'", "R' U' R BR R BR' R' BR R BR' R' F R BR R' BR' R BR R' BR' F' R' U R"],
     "5": ["R U2' R Dbr R' U2 R Dbr' R2 F' L' F R F' L F", "Bl U2 R' U2 Bl' U Bl U2 R U2' Bl' U R' U R", "R' U2 R U R' U R2 U R2' U2 R2 U' R2' U R2 U2 R'", "R2 Dbr R' U2' R Dbr' R2' U2 R' F' R U2' R U2 R' F"],
     "6": ["F' L' F R' F' L F R2' Dbr R' U2' R Dbr' R' U2 R'", "R U2' R' U' R U' R2' U' R2 U2' R2' U R2 U' R2' U2' R", "F' R U2' R' U2 R' F R U2' R2 Dbr R' U2 R Dbr' R2'"],
-    "7": [
-        "tbd"
-    ],
-    "8": [
-        "tbd"
-    ],
+    "7": ["F' R' F R F' L F R' F' L' F U2' F' R F R' U2 R"],
+    "8": ["R' U2' R F' R' F U2 F' L F R F' L' F R' F' R F"],
     "9": ["R' U2 R' Dfr' R U2' R' Dfr R2"],
     "10": ["R U2' R Dbr R' U2 R Dbr' R2'"],
     "11": ["R U2' R' U2 R' F' R U2' R U2 R' F"],
