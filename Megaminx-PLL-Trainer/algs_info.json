@@ -46,8 +46,8 @@
             "U R U2' R2' U' R2 U R2' U2' R2 U' R2' U' R U' R' U2' R U2",
             "F' R U2' R' U2 R' F R U2' R2 Dbr R' U2 R Dbr' R2'"
         ],
-        "name": "L3C1",
-        "group": "L3C",
+        "name": "Sune1",
+        "group": "Sune",
         "algset": "ZBLL",
         "s": "U2' R' U2 R U R' U R2 U R2' U2 R2 U' R2' U R2 U2 R' U'"
     },
@@ -57,8 +57,8 @@
             "U2' R' U2 R2 U R2' U' R2 U2 R2' U R2 U R' U R U2 R' U'",
             "R2 Dbr R' U2' R Dbr' R2' U2 R' F' R U2' R U2 R' F"
         ],
-        "name": "L3C2",
-        "group": "L3C",
+        "name": "Antisune1",
+        "group": "Antisune",
         "algset": "ZBLL",
         "s": "U R U2' R' U' R U' R2' U' R2 U2' R2' U R2 U' R2' U2' R U2"
     },
@@ -66,8 +66,8 @@
         "a": [
             "tbd"
         ],
-        "name": "L3C3",
-        "group": "L3C",
+        "name": "Other L3C1",
+        "group": "Other L3C",
         "algset": "ZBLL",
         "s": "tbd"
     },
@@ -75,8 +75,8 @@
         "a": [
             "tbd"
         ],
-        "name": "L3C4",
-        "group": "L3C",
+        "name": "Other L3C2",
+        "group": "Other L3C",
         "algset": "ZBLL",
         "s": "tbd"
     },
@@ -84,8 +84,8 @@
         "a": [
             "U' R2' Dfr' R U2 R' Dfr R U2' R U"
         ],
-        "name": "L3C5",
-        "group": "L3C",
+        "name": "U1",
+        "group": "U",
         "algset": "ZBLL",
         "s": "U' R' U2 R' Dfr' R U2' R' Dfr R2 U"
     },
@@ -93,8 +93,8 @@
         "a": [
             "R2 Dbr R' U2' R Dbr' R' U2 R'"
         ],
-        "name": "L3C6",
-        "group": "L3C",
+        "name": "U2",
+        "group": "U",
         "algset": "ZBLL",
         "s": "R U2' R Dbr R' U2 R Dbr' R2'"
     },
@@ -102,8 +102,8 @@
         "a": [
             "F' R U2' R' U2 R' F R U2' R U2 R'"
         ],
-        "name": "L3C7",
-        "group": "L3C",
+        "name": "U3",
+        "group": "U",
         "algset": "ZBLL",
         "s": "R U2' R' U2 R' F' R U2' R U2 R' F"
     },
@@ -111,8 +111,8 @@
         "a": [
             "U F U2' R' Dfr' R U2 R' Dfr R F' U'"
         ],
-        "name": "L3C8",
-        "group": "L3C",
+        "name": "U4",
+        "group": "U",
         "algset": "ZBLL",
         "s": "U F R' Dfr' R U2' R' Dfr R U2 F' U'"
     },
@@ -121,8 +121,8 @@
             "U R' U' R F R' U R U' F'",
             "U F R F' L F R' F' L' U'"
         ],
-        "name": "L3C9",
-        "group": "L3C",
+        "name": "T1",
+        "group": "T",
         "algset": "ZBLL",
         "s": "F U R' U' R F' R' U R U'"
     },
@@ -131,8 +131,8 @@
             "F' L' F R' F' L F R",
             "U F U' R' U' R U F' U' R' U R"
         ],
-        "name": "L3C10",
-        "group": "L3C",
+        "name": "T2",
+        "group": "T",
         "algset": "ZBLL",
         "s": "R' F' L' F R F' L F"
     },
@@ -140,8 +140,8 @@
         "a": [
             "R U2' R' U2 R' F' R U2' R U2 R' F"
         ],
-        "name": "L3C11",
-        "group": "L3C",
+        "name": "T3",
+        "group": "T",
         "algset": "ZBLL",
         "s": "F' R U2' R' U2 R' F R U2' R U2 R'"
     },
@@ -149,8 +149,8 @@
         "a": [
             "U F R' Dfr' R U2' R' Dfr R U2 F' U'"
         ],
-        "name": "L3C12",
-        "group": "L3C",
+        "name": "T4",
+        "group": "T",
         "algset": "ZBLL",
         "s": "U F U2' R' Dfr' R U2 R' Dfr R F' U'"
     },
@@ -159,8 +159,8 @@
             "F U R' U' R F' R' U R U'",
             "U L F R F' L' F R' F U'"
         ],
-        "name": "L3C13",
-        "group": "L3C",
+        "name": "Big L1",
+        "group": "Big L",
         "algset": "ZBLL",
         "s": "U R' U' R F R' U R U' F'"
     },
@@ -169,8 +169,8 @@
             "R' F' L' F R F' L F",
             "R' U' R U F U' R' U R U F' U'"
         ],
-        "name": "L3C14",
-        "group": "L3C",
+        "name": "Big L2",
+        "group": "Big L",
         "algset": "ZBLL",
         "s": "F' L' F R' F' L F R"
     },
@@ -178,8 +178,8 @@
         "a": [
             "U' R' U2 R' Dfr' R U2' R' Dfr R2 U"
         ],
-        "name": "L3C15",
-        "group": "L3C",
+        "name": "Small L1",
+        "group": "Small L",
         "algset": "ZBLL",
         "s": "U' R2' Dfr' R U2 R' Dfr R U2' R U"
     },
@@ -187,8 +187,8 @@
         "a": [
             "R U2' R Dbr R' U2 R Dbr' R2'"
         ],
-        "name": "L3C16",
-        "group": "L3C",
+        "name": "Small L2",
+        "group": "Small L",
         "algset": "ZBLL",
         "s": "R2 Dbr R' U2' R Dbr' R' U2 R'"
     },
@@ -197,8 +197,8 @@
             "F R' U R U' F' U R' U' R",
             "U L U' R' U L' U' R"
         ],
-        "name": "L3C17",
-        "group": "L3C",
+        "name": "Sune2",
+        "group": "Sune",
         "algset": "ZBLL",
         "s": "R' U L U' R U L' U'"
     },
@@ -207,8 +207,8 @@
             "U' R' U' R' F' L F R2 F' L' F R' U R U",
             "U' R U R' F' R U R2' U' R' F R U R2 U2' R' U"
         ],
-        "name": "L3C18",
-        "group": "L3C",
+        "name": "Sune3",
+        "group": "Sune",
         "algset": "ZBLL",
         "s": "U' R' U' R F' L F R2' F' L' F R U R U"
     },
@@ -217,8 +217,8 @@
             "R' U R U' F U R' U' R F'",
             "R' U L U' R U L' U'"
         ],
-        "name": "L3C19",
-        "group": "L3C",
+        "name": "Antisune2",
+        "group": "Antisune",
         "algset": "ZBLL",
         "s": "U L U' R' U L' U' R"
     },
@@ -227,8 +227,8 @@
             "U' R' U' R F' L F R2' F' L' F R U R U",
             "U2 F U2' R' U2 R2 U R2' U2 R U2' R U' R' F' U2'"
         ],
-        "name": "L3C20",
-        "group": "L3C",
+        "name": "Antisune3",
+        "group": "Antisune",
         "algset": "ZBLL",
         "s": "U2 F R U R' U2 R' U2' R2 U' R2' U2' R U2 F' U2'"
     }
