@@ -57,8 +57,8 @@
             "U2' R' U2 R2 U R2' U' R2 U2 R2' U R2 U R' U R U2 R' U'",
             "R2 Dbr R' U2' R Dbr' R2' U2 R' F' R U2' R U2 R' F"
         ],
-        "name": "Antisune1",
-        "group": "Antisune",
+        "name": "Backsune1",
+        "group": "Backsune",
         "algset": "ZBLL",
         "s": "U R U2' R' U' R U' R2' U' R2 U2' R2' U R2 U' R2' U2' R U2"
     },
@@ -217,8 +217,8 @@
             "R' U R U' F U R' U' R F'",
             "R' U L U' R U L' U'"
         ],
-        "name": "Antisune2",
-        "group": "Antisune",
+        "name": "Backsune2",
+        "group": "Backsune",
         "algset": "ZBLL",
         "s": "U L U' R' U L' U' R"
     },
@@ -227,8 +227,8 @@
             "U' R' U' R F' L F R2' F' L' F R U R U",
             "U2 F U2' R' U2 R2 U R2' U2 R U2' R U' R' F' U2'"
         ],
-        "name": "Antisune3",
-        "group": "Antisune",
+        "name": "Backsune3",
+        "group": "Backsune",
         "algset": "ZBLL",
         "s": "U2 F R U R' U2 R' U2' R2 U' R2' U2' R U2 F' U2'"
     }
