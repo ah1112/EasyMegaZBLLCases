@@ -15,7 +15,7 @@
     "14": ["R' F' L' F R F' L F", "R' U' R U F U' R' U R U F'"],
     "15": ["F' R U2' R' U2 R' F R U2' R U2 R'"],
     "16": ["F U2' R' Dfr' R U2 R' Dfr R F'"],
-    "17": ["R' U' R F R' U R U' F'", "F' R F' L F R' F' L'"],
+    "17": ["R' U' R F R' U R U' F'", "F R F' L F R' F' L'"],
     "18": ["F' L' F R' F' L F R", "F U' R' U' R U F' U' R' U R"],
     "19": ["R2' Dfr' R U2 R' Dfr R U2' R"],
     "20": ["R2 Dbr R' U2' R Dbr' R' U2 R'"],
