@@ -1,5 +1,5 @@
 https://mihlefeld.github.io/Alg-Trainers/Megaminx-OLL-Trainer/index.html
-https://mihlefeld.github.io/Alg-Trainers/Megaminx-PLL-Trainer/index.html
+https://mihlefeld.github.io/Alg-Trainers/ZBLL-Trainer/index.html
 https://mihlefeld.github.io/Alg-Trainers/Pyramixn-L4E-Trainer/index.html
 https://mihlefeld.github.io/Alg-Trainers/Skewb-NS2-Trainer/index.html
 https://mihlefeld.github.io/Alg-Trainers/2x2-TCLL-Trainer/index.html

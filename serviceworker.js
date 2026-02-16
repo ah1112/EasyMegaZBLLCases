@@ -77,7 +77,7 @@ var algsInTrainers = {
   '3x3-ZBLS-Trainer': 302,
   '5x5-L2E-Trainer': 15,
   'Megaminx-OLL-Trainer': 259, 
-  'Megaminx-PLL-Trainer': 151, 
+  'ZBLL-Trainer': 151, 
   'Octaminx-TCP-Trainer': 18,
   'Octaminx-L3T-Trainer': 12,
   'Pyraminx-L4E-Trainer': 35, 
