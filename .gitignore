@@ -1,2 +1,5 @@
 /generators
 /__pycache__
+*.ods
+*.ods#
+/venv
