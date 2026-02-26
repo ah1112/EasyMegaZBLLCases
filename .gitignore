@@ -3,3 +3,5 @@
 *.ods
 *.ods#
 /venv
+/images
+*.xlsx
