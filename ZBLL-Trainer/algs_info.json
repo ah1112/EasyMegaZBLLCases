@@ -2,85 +2,105 @@
     "1": {
         "a": [
             "U' R U2 R' U' R U' R' U2 R' U2' R U R' U R U2'",
-            "F BR R BR' R' BR R BR' R' F' R BR R' BR' R BR R' BR'"
+            "F Br R Br' R' Br R Br' R' F' R Br R' Br' R Br R' Br'"
         ],
         "name": "L2C1",
         "group": "L2C",
         "algset": "ZBLL",
-        "s": "BR R BR' R' BR R BR' R' F R BR R' BR' R BR R' BR' F'"
+        "s": "U2 R' U' R U' R' U2 R U2' R U R' U R U2' R' U"
     },
     "2": {
         "a": [
             "U2 R U R' U R U2' R' U2 R' U' R U' R' U2 R",
-            "BR R BR' R' BR R BR' R' F R BR R' BR' R BR R' BR' F'"
+            "BR R Br' R' Br R Br' R' F R Br R' Br' R Br R' Br' F'"
         ],
         "name": "L2C2",
         "group": "L2C",
         "algset": "ZBLL",
-        "s": "F BR R BR' R' BR R BR' R' F' R BR R' BR' R BR R' BR'"
+        "s": "R' U2' R U R' U R U2' R U2 R' U' R U' R' U2'"
     },
     "3": {
         "a": [
-            "U' R U2' R' U2 R' U' R U' R' U2 R U2' R U R' U",
-            "R' U' R BR R BR' R' BR R BR' R' F R BR R' BR' R BR R' BR' F' R' U R"
+            "U' R U2' R' U2 R' U' R U' R' U2 R U2' R U R' U"
         ],
         "name": "L2C3",
         "group": "L2C",
         "algset": "ZBLL",
-        "s": "R' U' R F BR R BR' R' BR R BR' R' F' R BR R' BR' R BR R' BR' R' U R"
+        "s": "U' R U' R' U2 R' U2' R U R' U R U2' R U2 R' U"
     },
     "4": {
         "a": [
-            "U2' R U' R' U2 R' U2' R U R' U R U2' R U2 R'",
-            "R' U' R F BR R BR' R' BR R BR' R' F' R BR R' BR' R BR R' BR' R' U R"
+            "U2' R U' R' U2 R' U2' R U R' U R U2' R U2 R'"
         ],
         "name": "L2C4",
         "group": "L2C",
         "algset": "ZBLL",
-        "s": "R' U' R BR R BR' R' BR R BR' R' F R BR R' BR' R BR R' BR' F' R' U R"
+        "s": "R U2' R' U2 R' U' R U' R' U2 R U2' R U R' U2"
     },
     "5": {
         "a": [
+            "U R U2' R2' U' R2 U R2' U2' R2 U' R2' U' R U' R' U2' R U2",
             "F' L' F R' F' L F R3 Dbr R' U2' R Dbr' R' U2 R'",
             "R' U' R U' Bl U2 R' U2' Bl' U' Bl U2' R U2' Bl'",
-            "U R U2' R2' U' R2 U R2' U2' R2 U' R2' U' R U' R' U2' R U2",
             "F' R U2' R' U2 R' F R U2' R2 Dbr R' U2 R Dbr' R2'"
         ],
-        "name": "Adj Sune1",
-        "group": "Adj Sune",
+        "name": "Sune1",
+        "group": "Sune",
         "algset": "ZBLL",
         "s": "U2' R' U2 R U R' U R2 U R2' U2 R2 U' R2' U R2 U2 R' U'"
     },
     "6": {
         "a": [
-            "R U2' R Dbr R' U2 R Dbr' R3' F' L' F R F' L F",
-            "U2' R' U2 R2 U R2' U' R2 U2 R2' U R2 U R' U R U2 R' U'",
-            "R2 Dbr R' U2' R Dbr' R2' U2 R' F' R U2' R U2 R' F"
+            "F R' U R U' F' U R' U' R",
+            "U L U' R' U L' U' R"
         ],
-        "name": "Adj Backsune1",
-        "group": "Adj Backsune",
+        "name": "Sune2",
+        "group": "Sune",
         "algset": "ZBLL",
-        "s": "U R U2' R' U' R U' R2' U' R2 U2' R2' U R2 U' R2' U2' R U2"
+        "s": "R' U R U' F U R' U' R F'"
     },
     "7": {
         "a": [
-            "U2 R' U2' R F' R' F U2 F' L F R F' L' F R' F' R F"
+            "U' R' U' R' F' L F R2 F' L' F R' U R U",
+            "U' R U R' F' R U R2' U' R' F R U R2 U2' R' U"
         ],
-        "name": "Antisune1",
-        "group": "Antisune",
+        "name": "Sune3",
+        "group": "Sune",
         "algset": "ZBLL",
-        "s": "F' R' F R F' L F R' F' L' F U2' F' R F R' U2 R"
+        "s": "U' R' U' R F' L F R2' F' L' F R U R U"
     },
     "8": {
         "a": [
-            "U2 F' R' F R F' L F R' F' L' F U2' F' R F R' U2 R"
+            "U2' R' U2 R2 U R2' U' R2 U2 R2' U R2 U R' U R U2 R' U'",
+            "R U2' R Dbr R' U2 R Dbr' R3' F' L' F R F' L F",
+            "R2 Dbr R' U2' R Dbr' R2' U2 R' F' R U2' R U2 R' F"
         ],
-        "name": "Back Antisune1",
-        "group": "Antisune",
+        "name": "Backsune1",
+        "group": "Backsune",
         "algset": "ZBLL",
-        "s": "R' U2' R F' R' F U2 F' L F R F' L' F R' F' R F"
+        "s": "U R U2' R' U' R U' R2' U' R2 U2' R2' U R2 U' R2' U2' R U2"
     },
     "9": {
+        "a": [
+            "R' U R U' F U R' U' R F'",
+            "R' U L U' R U L' U'"
+        ],
+        "name": "Backsune2",
+        "group": "Backsune",
+        "algset": "ZBLL",
+        "s": "F R' U R U' F' U R' U' R"
+    },
+    "10": {
+        "a": [
+            "U' R' U' R F' L F R2' F' L' F R U R U",
+            "U2 F U2' R' U2 R2 U R2' U2 R U2' R U' R' F' U2'"
+        ],
+        "name": "Backsune3",
+        "group": "Backsune",
+        "algset": "ZBLL",
+        "s": "U' R' U' R' F' L F R2 F' L' F R' U R U"
+    },
+    "11": {
         "a": [
             "U' R2' Dfr' R U2 R' Dfr R U2' R U"
         ],
@@ -89,16 +109,17 @@
         "algset": "ZBLL",
         "s": "U' R' U2 R' Dfr' R U2' R' Dfr R2 U"
     },
-    "10": {
+    "12": {
         "a": [
+            "(U) R U2 R U2' R2' U' R2 U2' R' U2 R'",
             "R2 Dbr R' U2' R Dbr' R' U2 R'"
         ],
         "name": "Adj U2",
         "group": "Adj U",
         "algset": "ZBLL",
-        "s": "R U2' R Dbr R' U2 R Dbr' R2'"
+        "s": "R U2' R U2 R2' U R2 U2 R' U2' R'"
     },
-    "11": {
+    "13": {
         "a": [
             "F' R U2' R' U2 R' F R U2' R U2 R'"
         ],
@@ -107,7 +128,7 @@
         "algset": "ZBLL",
         "s": "R U2' R' U2 R' F' R U2' R U2 R' F"
     },
-    "12": {
+    "14": {
         "a": [
             "U F U2' R' Dfr' R U2 R' Dfr R F' U'"
         ],
@@ -116,7 +137,7 @@
         "algset": "ZBLL",
         "s": "U F R' Dfr' R U2' R' Dfr R U2 F' U'"
     },
-    "13": {
+    "15": {
         "a": [
             "U R' U' R F R' U R U' F'",
             "U F R F' L F R' F' L' U'"
@@ -126,7 +147,7 @@
         "algset": "ZBLL",
         "s": "F U R' U' R F' R' U R U'"
     },
-    "14": {
+    "16": {
         "a": [
             "F' L' F R' F' L F R",
             "U F U' R' U' R U F' U' R' U R"
@@ -136,7 +157,7 @@
         "algset": "ZBLL",
         "s": "R' F' L' F R F' L F"
     },
-    "15": {
+    "17": {
         "a": [
             "R U2' R' U2 R' F' R U2' R U2 R' F"
         ],
@@ -145,7 +166,7 @@
         "algset": "ZBLL",
         "s": "F' R U2' R' U2 R' F R U2' R U2 R'"
     },
-    "16": {
+    "18": {
         "a": [
             "U F R' Dfr' R U2' R' Dfr R U2 F' U'"
         ],
@@ -154,7 +175,7 @@
         "algset": "ZBLL",
         "s": "U F U2' R' Dfr' R U2 R' Dfr R F' U'"
     },
-    "17": {
+    "19": {
         "a": [
             "F U R' U' R F' R' U R U'",
             "U L F R F' L' F R' F' U'"
@@ -164,7 +185,7 @@
         "algset": "ZBLL",
         "s": "U R' U' R F R' U R U' F'"
     },
-    "18": {
+    "20": {
         "a": [
             "R' F' L' F R F' L F",
             "R' U' R U F U' R' U R U F' U'"
@@ -174,7 +195,7 @@
         "algset": "ZBLL",
         "s": "F' L' F R' F' L F R"
     },
-    "19": {
+    "21": {
         "a": [
             "U' R' U2 R' Dfr' R U2' R' Dfr R2 U"
         ],
@@ -183,56 +204,17 @@
         "algset": "ZBLL",
         "s": "U' R2' Dfr' R U2 R' Dfr R U2' R U"
     },
-    "20": {
+    "22": {
         "a": [
+            "R U2' R U2 R2' U R2 U2 R' U2' R'",
             "R U2' R Dbr R' U2 R Dbr' R2'"
         ],
         "name": "Adj Small L2",
         "group": "Adj Small L",
         "algset": "ZBLL",
-        "s": "R2 Dbr R' U2' R Dbr' R' U2 R'"
-    },
-    "21": {
-        "a": [
-            "F R' U R U' F' U R' U' R",
-            "U L U' R' U L' U' R"
-        ],
-        "name": "Adj Sune2",
-        "group": "Adj Sune",
-        "algset": "ZBLL",
-        "s": "R' U L U' R U L' U'"
-    },
-    "22": {
-        "a": [
-            "U' R' U' R' F' L F R2 F' L' F R' U R U",
-            "U' R U R' F' R U R2' U' R' F R U R2 U2' R' U"
-        ],
-        "name": "Adj Sune3",
-        "group": "Adj Sune",
-        "algset": "ZBLL",
-        "s": "U' R' U' R F' L F R2' F' L' F R U R U"
+        "s": "R U2 R U2' R2' U' R2 U2' R' U2 R'"
     },
     "23": {
-        "a": [
-            "R' U R U' F U R' U' R F'",
-            "R' U L U' R U L' U'"
-        ],
-        "name": "Adj Backsune2",
-        "group": "Adj Backsune",
-        "algset": "ZBLL",
-        "s": "U L U' R' U L' U' R"
-    },
-    "24": {
-        "a": [
-            "U' R' U' R F' L F R2' F' L' F R U R U",
-            "U2 F U2' R' U2 R2 U R2' U2 R U2' R U' R' F' U2'"
-        ],
-        "name": "Adj Backsune3",
-        "group": "Adj Backsune",
-        "algset": "ZBLL",
-        "s": "U2 F R U R' U2 R' U2' R2 U' R2' U2' R U2 F' U2'"
-    },
-    "25": {
         "a": [
             "R' F' L F R F' L' F"
         ],
@@ -241,7 +223,7 @@
         "algset": "ZBLL",
         "s": "F' L F R' F' L' F R"
     },
-    "26": {
+    "24": {
         "a": [
             "L F R' F' L' F R F'"
         ],
@@ -250,7 +232,7 @@
         "algset": "ZBLL",
         "s": "F R' F' L F R F' L'"
     },
-    "27": {
+    "25": {
         "a": [
             "R U R' U2 R' U2' R2 U' R2' U2' R"
         ],
@@ -259,7 +241,7 @@
         "algset": "ZBLL",
         "s": "R' U2 R2 U R2' U2 R U2' R U' R'"
     },
-    "28": {
+    "26": {
         "a": [
             "R' U' R U2' R U2 R2' U R2 U2 R'"
         ],
@@ -268,7 +250,7 @@
         "algset": "ZBLL",
         "s": "R U2' R2' U' R2 U2' R' U2 R' U R"
     },
-    "29": {
+    "27": {
         "a": [
             "F' L F R' F' L' F R"
         ],
@@ -277,7 +259,7 @@
         "algset": "ZBLL",
         "s": "R' F' L F R F' L' F"
     },
-    "30": {
+    "28": {
         "a": [
             "F R' F' L F R F' L'"
         ],
@@ -286,7 +268,7 @@
         "algset": "ZBLL",
         "s": "L F R' F' L' F R F'"
     },
-    "31": {
+    "29": {
         "a": [
             "F' R' F R F' L F R' F' L' R F",
             "R2 Dbr R' U2 R Dbr' R' U2' R'"
@@ -296,7 +278,7 @@
         "algset": "ZBLL",
         "s": "F' R' L F R F' L' F R' F' R F"
     },
-    "32": {
+    "30": {
         "a": [
             "R2' Dfr' R U2' R' Dfr R U2 R"
         ],
@@ -305,7 +287,7 @@
         "algset": "ZBLL",
         "s": "R' U2' R' Dfr' R U2 R' Dfr R2"
     },
-    "33": {
+    "31": {
         "a": [
             "F R F' L F R2' F' L' F R F'",
             "(U) R' U2 R2 U R2' U2 R U2' R U' R'"
@@ -315,7 +297,7 @@
         "algset": "ZBLL",
         "s": "F R' F' L F R2 F' L' F R' F'"
     },
-    "34": {
+    "32": {
         "a": [
             "F R' L F' L' F R F' L F L' F'",
             "(U2') R' U2' R' Dfr' R U2 R' Dfr R2"
@@ -325,7 +307,7 @@
         "algset": "ZBLL",
         "s": "F L F' L' F R' F' L F L' R F'"
     },
-    "35": {
+    "33": {
         "a": [
             "F' R' L F R F' L' F R' F' R F"
         ],
@@ -334,7 +316,7 @@
         "algset": "ZBLL",
         "s": "F' R' F R F' L F R' F' L' R F"
     },
-    "36": {
+    "34": {
         "a": [
             "R U2 R' F R Br R' F' R Br' U2' R'",
             "(U2) F' L' F R' F' L2 F R F' L' F",
@@ -345,7 +327,16 @@
         "algset": "ZBLL",
         "s": "R U2 Br R' F R Br' R' F' R U2' R'"
     },
-    "37": {
+    "35": {
+        "a": [
+            "U2 R' U2' R F' R' F U2 F' L F R F' L' F R' F' R F"
+        ],
+        "name": "Antisune1",
+        "group": "Antisune",
+        "algset": "ZBLL",
+        "s": "F' R' F R F' L F R' F' L' F U2' F' R F R' U2 R U2'"
+    },
+    "36": {
         "a": [
             "R' U' F' L F R' F' L' F R U R"
         ],
@@ -354,7 +345,7 @@
         "algset": "ZBLL",
         "s": "R' U' R' F' L F R F' L' F U R"
     },
-    "38": {
+    "37": {
         "a": [
             "R' F R F' L F R' F' L' R"
         ],
@@ -362,6 +353,15 @@
         "group": "Antisune",
         "algset": "ZBLL",
         "s": "R' L F R F' L' F R' F' R"
+    },
+    "38": {
+        "a": [
+            "U2 F' R' F R F' L F R' F' L' F U2' F' R F R' U2 R"
+        ],
+        "name": "Back Antisune1",
+        "group": "Back Antisune",
+        "algset": "ZBLL",
+        "s": "R' U2' R F' R' F U2 F' L F R F' L' F R' F' R F U2'"
     },
     "39": {
         "a": [
